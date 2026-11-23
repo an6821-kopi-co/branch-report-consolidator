@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# AN6821: keep test answers and generated data out of the public repo
+timing_test_kit/
+sample_data/
+_facilitator_only/
